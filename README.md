@@ -1,1 +1,1 @@
-# 10-sec-HLS
+# HLS test stream
